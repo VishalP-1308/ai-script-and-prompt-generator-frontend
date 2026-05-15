@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://ai-script-and-prompt-generator-kn309zhvv.vercel.app';
+const API_BASE_URL = 'https://ai-script-and-prompt-generator.vercel.app';
 
 /**
  * Generic API call handler
